@@ -1,0 +1,4 @@
+panosync
+========
+
+PanoJS sync
